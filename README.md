@@ -25,4 +25,4 @@ This repository contains the strategic project plan, methodology, and simulation
 ├── docs/
 │   └── Telecom_Project_Plan_Week1.docx # Submitted detailed project plan
 └── scripts/
-    └── data_simulation_week1.py        # Python script for telecom data simulation
+    └── data_simulation_week1.py        # Python script for telecom data simulation and other weeks
